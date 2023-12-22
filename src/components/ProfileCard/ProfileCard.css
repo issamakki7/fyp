@@ -1,0 +1,47 @@
+.profile-card {
+  width: 100%;
+  max-width: 600px;
+  margin: 5rem auto 0 auto;
+  padding: 0px 20px 20px 20px;
+}
+
+.header-section {
+  text-align: center;
+  padding-top: 25px;
+}
+
+.name-section {
+  font-size: 40px;
+  margin-bottom: 1rem;
+}
+
+.basic-info {
+  margin-top: 25px;
+  text-align: left;
+}
+
+.horiz-line {
+  width: 90%;
+  margin-bottom: 25px;
+  color: black;
+}
+
+.info-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-row {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.info-label {
+  font-weight: bold;
+  font-size: 1.1rem;
+  min-width: 80px;
+}
+
+.info-value {
+  margin-left: 10px;
+}
